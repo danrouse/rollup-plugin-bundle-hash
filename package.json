@@ -1,0 +1,28 @@
+{
+  "name": "rollup-plugin-bundle-hash",
+  "version": "1.0.0",
+  "description": "Write rollup output content hashes to a file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danrouse/rollup-plugin-bundle-hash.git"
+  },
+  "keywords": [
+    "rollup",
+    "plugin",
+    "hash",
+    "hasha"
+  ],
+  "author": "Dan Rouse <dan@rouse.house>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danrouse/rollup-plugin-bundle-hash/issues"
+  },
+  "homepage": "https://github.com/danrouse/rollup-plugin-bundle-hash#readme",
+  "dependencies": {
+    "hasha": "^3.0.0"
+  }
+}
